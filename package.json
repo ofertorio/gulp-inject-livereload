@@ -1,0 +1,13 @@
+{
+  "name": "gulp-inject-livereload",
+  "version": "1.0.0",
+  "description": "A gulp task to inject live reload into Javascript files",
+  "main": "index.js",
+  "repository": "https://github.com/ofertorio/gulp-inject-livereload",
+  "author": "Matheus Giovani <matheus@ad3com.com.br>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "through2": "^4.0.2"
+  }
+}
