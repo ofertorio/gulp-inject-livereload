@@ -6,7 +6,6 @@
   "repository": "https://github.com/ofertorio/gulp-inject-livereload",
   "author": "Matheus Giovani <matheus@ad3com.com.br>",
   "license": "MIT",
-  "private": false,
   "dependencies": {
     "through2": "^4.0.2"
   }
